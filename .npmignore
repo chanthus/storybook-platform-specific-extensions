@@ -1,0 +1,8 @@
+# Source Files
+src
+
+# Lock Files
+package-lock.json
+
+# Git Files
+.gitignore
