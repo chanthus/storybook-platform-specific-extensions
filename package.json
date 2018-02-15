@@ -1,6 +1,6 @@
 {
-  "name": "@username/storybook-platform-specific-extensions",
-  "version": "1.0.0",
+  "name": "@smtih/storybook-platform-specific-extensions",
+  "version": "1.0.1",
   "description": "Allows react and react native to access storybook using platform specific extensions",
   "main": "lib/index.js",
   "scripts": {
