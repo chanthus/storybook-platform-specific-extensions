@@ -1,5 +1,5 @@
 {
-  "name": "@smtih/storybook-platform-specific-extensions",
+  "name": "storybook-dynamic",
   "version": "1.0.1",
   "description": "Allows react and react native to access storybook using platform specific extensions",
   "main": "lib/index.js",
