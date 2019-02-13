@@ -22,8 +22,8 @@
   },
   "homepage": "https://github.com/Smtih/storybook-platform-specific-extensions#readme",
   "dependencies": {
-    "@storybook/react": "^3.3.13",
-    "@storybook/react-native": "^3.3.13"
+    "@storybook/react": "^4.1.11",
+    "@storybook/react-native": "^4.1.11"
   },
   "devDependencies": {
     "babel-cli": "^6.26.0"
