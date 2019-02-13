@@ -1,1 +1,1 @@
-export * from "./dynamicStoryBook.js"
+export * from "./dynamicStorybook.js"
